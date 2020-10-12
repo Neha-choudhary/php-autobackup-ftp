@@ -1,4 +1,4 @@
-## PHP Auto Backup File with CronJob and FTP
+## PHP Auto Backup with CronJob and FTP
 How to use:
 - Set up ftp connection.
 - Save the autobackup.php file in the root directory.
